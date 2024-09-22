@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Junaid Narkar.
+
+As a Data Enthuisast, I am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. I'm pursuing my Master’s in Data Science & AI from IIT Roorkee
+
+Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about
+
 <!--
 **Junaid-Narkar/Junaid-Narkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
