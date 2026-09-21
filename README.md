@@ -1,22 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-My name is Junaid Narkar.
+I'm Junaid Narkar — a Data Analyst based in Kuwait with 4+ years of experience in SQL, Power BI, and Python.
 
-As a Data Enthuisast, I am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. I'm pursuing my Master’s in Data Science & AI from IIT Roorkee
+I work with data to build reporting workflows, dashboards, and analytics solutions for operations and business teams. My focus: turning raw data into clear decisions.
 
-Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about
+🔧 **Tech I work with:**
+- SQL Server, PostgreSQL
+- Power BI (DAX, Power Query)
+- Python (Pandas, NumPy, Scikit-learn)
+- Excel, Git
 
-<!--
-**Junaid-Narkar/Junaid-Narkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Featured projects:**
+- **Olist E-Commerce Analytics** — 3-page Power BI dashboard on 100K+ orders
+- **SQL Server Backup & Restore Lab** — DBA fundamentals with disaster recovery simulation
+- **Uber Ride Analytics** — SQL analysis of 150K records + Power BI dashboard
+- **Credit Card Fraud Detection** — Random Forest, 93.3% precision
 
-Here are some ideas to get you started:
+🎓 **Certified:** Executive Post Graduate Certification in Data Science & AI — iHUB DivyaSampark, IIT Roorkee (2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Connect:**
+- LinkedIn: linkedin.com/in/junaidnarkar-analyst
+- Email: junaidnarkar01@gmail.com
+
+Currently open to Data Analyst / BI Analyst / SQL Developer roles in Kuwait and the GCC. Full work authorization, immediate joiner.
