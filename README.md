@@ -1,6 +1,6 @@
-Hi there 👋
+# Hi, I'm Junaid Narkar 👋
 
-I'm Junaid Narkar — a Data Analyst based in Kuwait with 4+ years of experience in SQL, Power BI, and Python.
+Data Analyst based in Kuwait with 4+ years of experience in SQL, Power BI, and Python.
 
 I work with data to build reporting workflows, dashboards, and analytics solutions for operations and business teams. My focus: turning raw data into clear decisions.
 
